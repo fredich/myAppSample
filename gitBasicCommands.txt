@@ -1,0 +1,15 @@
+##########git basic commands###########
+
+git init      // initialize local git repository
+
+git add <file>
+
+git status
+
+git commit
+
+git push       // push to remote repository
+
+git pull       //
+
+git clone      //
